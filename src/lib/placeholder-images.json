@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-ayurveda",
+      "description": "A serene image representing ayurveda, with herbs and natural elements.",
+      "imageUrl": "https://picsum.photos/seed/ayurwell/600/400",
+      "imageHint": "herbs wellness"
+    }
+  ]
+}
